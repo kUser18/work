@@ -2,3 +2,4 @@ This is a new text file for trying out git.
 Second line
 Third line
 Fourth line
+Fifth line
